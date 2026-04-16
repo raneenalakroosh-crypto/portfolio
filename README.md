@@ -1,8 +1,7 @@
 # My Portfolio
 My programming portfolio (apps, websites, and games)
-# 🚀 My Portfolio
 
-مرحبًا، أنا مطور أعمل على التطبيقات والمواقع والألعاب
+
 
 ---
 
