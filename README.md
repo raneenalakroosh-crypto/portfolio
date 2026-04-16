@@ -20,6 +20,6 @@ My programming portfolio (apps, websites, and games)
 ---
 
 ## 🌐 المواقع
-### Coffee Website
+### Burger Website
 موقع لكوفي  
-🔗 https://github.com/raneenalakroosh-crypto/coffee-website
+🔗 https://raneenalakroosh-crypto.github.io/burger-website/
