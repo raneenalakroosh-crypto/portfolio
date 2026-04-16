@@ -21,5 +21,5 @@ My programming portfolio (apps, websites, and games)
 
 ## 🌐 المواقع
 ### Burger Website
-موقع لكوفي  
+
 🔗 https://raneenalakroosh-crypto.github.io/burger-website/
