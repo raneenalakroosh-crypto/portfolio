@@ -11,7 +11,7 @@ My programming portfolio (apps, websites, and games)
 لعبة باستخدام Unity
 
 
-🔗 https://raneenalakroosh-crypto.github.io/Pong-game/
+🔗 🔗 [Play Pong Game](https://raneenalakroosh-crypto.github.io/Pong-game/)
 
 
 
@@ -25,7 +25,7 @@ My programming portfolio (apps, websites, and games)
 ---
 
 ## 🌐 المواقع
-### Burger Website
+### Burger Website 
 
 🔗 https://raneenalakroosh-crypto.github.io/burger-website/
 ### [Burger Website](https://raneenalakroosh-crypto.github.io/burger-website/)
