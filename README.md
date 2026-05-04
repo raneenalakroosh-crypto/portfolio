@@ -8,8 +8,11 @@ My programming portfolio (apps, websites, and games)
 ## 🎮 الألعاب
 ### Pong Game 
 
-لعبة باستخدام Unity
+لعبة بسيطة كلاسيكية.
+A simple classic game.
 
+لعبة باستخدام Unity
+Built using Unity
 
 
 [Play Pong Game](https://raneenalakroosh-crypto.github.io/Pong-game/)
