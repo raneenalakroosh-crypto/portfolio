@@ -11,7 +11,7 @@ My programming portfolio (apps, websites, and games)
 لعبة بسيطة كلاسيكية.
 A simple classic game.
 
-لعبة باستخدام Unity
+
 Built using Unity
 
 
@@ -20,7 +20,10 @@ Built using Unity
 
 
 ### Knight Game 
-لعبة باستخدام Godot
+لعبة مغامرة بشخصية فارس.
+An adventure game with a knight character.
+
+Built using Godot
 
 [Play Knight Game]( https://raneenalakroosh-crypto.github.io/Knight-Game/)
 
@@ -30,11 +33,20 @@ Built using Unity
 
 ## 📱 التطبيقات
 ### Task App
-تطبيق لإدارة المهام  
+
+طبيق بسيط لإدارة المهام اليومية.
+A simple app to manage daily tasks.
+
+Built using Visual Studio with C#
+
 [Task-App](https://raneenalakroosh-crypto.github.io/TaskApp/)
 ---
 
 ## 🌐 المواقع
 ### Burger Website 
+موقع بسيط لعرض قائمة برجر.
+A simple website to display a burger menu.
+
+Built using HTML
 
 [Burger Website](https://raneenalakroosh-crypto.github.io/burger-website/)
