@@ -27,8 +27,7 @@ My programming portfolio (apps, websites, and games)
 ## 📱 التطبيقات
 ### Task App
 تطبيق لإدارة المهام  
-🔗 https://github.com/raneenalakroosh-crypto/task-app
-
+ (https://raneenalakroosh-crypto.github.io/TaskApp/)
 ---
 
 ## 🌐 المواقع
